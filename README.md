@@ -1,5 +1,8 @@
-<img height="500" src="https://raw.githubusercontent.com/kfarr/ar-tour-assets/master/source/QR%20Overlay%20-%20US%20Coast%20Survey%201859.jpg" />
+See the blog post: https://www.3dstreet.com/blog/2025/08/13/creating-ar-scenes-with-historic-imagery-and-viewer-mode
 
+Click to enlarge:
+
+<img height="500" src="https://raw.githubusercontent.com/kfarr/ar-tour-assets/master/source/QR%20Overlay%20-%20US%20Coast%20Survey%201859.jpg" />
 
 Sources:
 1) 1931 Photo from Cesar Chavez (Army) St looking West at Harrison https://www.foundsf.org/File:Armyatharrison-19311.jpg from https://www.foundsf.org/A_Brief_History_of_Cesar_Chavez/Army_Street
